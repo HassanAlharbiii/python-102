@@ -1,0 +1,11 @@
+import datetime
+
+def calculateAge(*born):
+    pass
+
+date=datetime.date(2021, 1, 1)
+names=('khalid', 'nouf', 'ali')
+Khalid_age=datetime.date(1989, 2, 1)
+nouf_age=datetime.date(2004, 9, 2)
+ali_age=datetime.date(2009, 12, 9)
+print(date- Khalid_age)
