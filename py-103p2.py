@@ -29,7 +29,7 @@ user_account1= BankAccount()
 user_account1.check_balance()
 
 user_account1.deposit(100)
-user_account1.deposit(100)
+user_account1.deposit(400)
 user_account1.check_balance()
 
 
